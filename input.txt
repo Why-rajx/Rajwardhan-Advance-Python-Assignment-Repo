@@ -1,0 +1,4 @@
+Python is a programming language.
+It is easy to learn and use.
+Python supports object-oriented programming.
+It is widely used in data science.
